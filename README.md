@@ -1,5 +1,9 @@
 # 轻输 QingShu
 
+[**下载 Windows 版（ZIP）**](https://github.com/Eucliwood114/-QingShu-/raw/refs/heads/main/QingShu-Windows.zip)
+
+下载后解压，双击 `轻输.exe` 即可使用。
+
 轻输是一款轻量的 Windows 剪贴板输入工具。复制文字后，按下快捷键，即可将内容逐字输入到当前输入框，适合单词、短句等短文本的高频录入。
 
 使用 C# 和 WinForms 开发，免安装、本地运行，不联网、不保存剪贴板历史。
