@@ -1,0 +1,17 @@
+﻿QingShu tests (UTC): 2026-10-25 10:46:10Z
+PASS  Win32 INPUT ABI size
+PASS  Whitespace, line endings, control characters, Unicode text elements
+PASS  Real F8 hotkey and short English input
+PASS  Real Ctrl+Alt+V hotkey, uppercase, punctuation, literal special characters
+PASS  Unicode input including Chinese, accented letters and surrogate pairs
+PASS  Repeated copying reads the newest content; unchanged clipboard can be reused
+PASS  Multiline default sends spaces, without Enter or Tab
+PASS  Per-line queue skips blanks, stops at end, resets after recopying identical text
+PASS  Global Esc cancels real input promptly and does not count a partial operation
+PASS  Changing native input focus stops typing
+PASS  Clipboard changes during typing preserve the current text and reset the next queue
+PASS  Empty and oversized clipboard contents are rejected without input
+PASS  Held/repeated hotkey waits for key release and types exactly once
+PASS  Three-second countdown types into the selected input
+ALL TESTS PASSED
+Original clipboard restored.
